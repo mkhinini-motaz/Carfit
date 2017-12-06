@@ -1,0 +1,14 @@
+{
+    "name": "carfit",
+    "version": "1.0.0",
+    "description": "Ceci est la solution du test envoyé de la part de monsieur Nabil Ben Nouri de la part de l'entreprise Carfit",
+    "main": "script.js",
+    "scripts": {
+        "start": "sudo node index.js"
+    },
+    "author": "Mkhinini Moatez",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "^2.19.3"
+    }
+}
